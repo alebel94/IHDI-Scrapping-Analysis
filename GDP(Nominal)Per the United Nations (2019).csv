@@ -1,0 +1,214 @@
+,Rank,Country/Territory,GDP(US$million)
+1,NaN,World,87445260
+2,1,United States,21433226
+3,2,China,14342933
+4,3,Japan,5082465
+5,4,Germany,3861123
+6,5,India,2891582
+7,6,United Kingdom,2826441
+8,7,France,2715518
+9,8,Italy,2003576
+10,9,Brazil,1847795
+11,10,Canada,1741496
+12,11,Russia,1692930
+13,12,South Korea,1646539
+14,13,Spain,1393490
+15,14,Australia,1380207
+16,15,Mexico,1256440
+17,16,Indonesia,1119190
+18,17,Netherlands,907050
+19,18,Saudi Arabia,792966
+20,19,Turkey,761425
+21,20,Switzerland,731425
+22,21,Iran,603779
+23,22,Poland,595862
+24,23,Thailand,542016
+25,24,Belgium,533097
+26,25,Sweden,530883
+27,26,Nigeria,474516
+28,27,Argentina,449663
+29,28,Austria,445075
+30,29,United Arab Emirates,421142
+31,30,Norway,403336
+32,31,Ireland,398590
+33,32,Israel,395098
+34,33,Singapore,372073
+35,34,Hong Kong (China),365710
+36,35,Malaysia,364684
+37,36,Philippines,359354
+38,37,South Africa,351430
+39,38,Denmark,350104
+40,39,Colombia,323802
+41,40,Egypt,317359
+42,41,Bangladesh,301051
+43,42,Chile,282318
+44,43,Finland,269296
+45,44,Vietnam,261921
+46,45,Pakistan,256996
+47,46,Czech Republic,250680
+48,47,Romania,250075
+49,48,Portugal,238785
+50,49,Peru,226850
+51,50,Iraq,225232
+52,51,New Zealand,206936
+53,52,Greece,205326
+54,53,Qatar,183466
+55,54,Kazakhstan,181667
+56,55,Algeria,171157
+57,56,Hungary,163469
+58,57,Ukraine,153781
+59,58,Venezuela,134960
+60,59,Kuwait,134623
+61,60,Morocco,119700
+62,61,Ecuador,107435
+63,62,Cuba,105354
+64,63,Slovakia,105079
+65,64,Puerto Rico (United States),104988
+66,65,Kenya,95501
+67,66,Ethiopia,92750
+68,67,Dominican Republic,88941
+69,68,Angola,85000
+70,69,Sri Lanka,84008
+71,70,Myanmar,76784
+72,71,Guatemala,76710
+73,72,Oman,76331
+74,73,Luxembourg,71104
+75,74,Bulgaria,67925
+76,75,Ghana,66999
+77,76,Panama,66787
+78,77,Belarus,63080
+79,78,Costa Rica,61773
+80,79,Tanzania,61136
+81,80,Croatia,60415
+82,81,Côte d'Ivoire,58539
+83,82,Lebanon,56409
+84,83,Uruguay,56045
+85,84,Uzbekistan,57921
+86,85,Lithuania,54627
+87,86,Slovenia,54174
+88,87,Macau (China),53859
+89,88,Serbia,51475
+90,89,Turkmenistan,48276
+91,90,Azerbaijan,48047
+92,91,Congo Democratic Republic of the,47319
+93,92,Jordan,44502
+94,93,Bolivia,40895
+95,94,Cameroon,38861
+96,95,Tunisia,38797
+97,96,Bahrain,38574
+98,97,Paraguay,38086
+99,98,Sudan,34895
+100,99,Latvia,34102
+101,100,Uganda,32609
+102,101,Libya,32600
+103,102,Estonia,31471
+104,103,Nepal,30714
+105,104,Cambodia,27097
+106,105,El Salvador,27022
+107,106,Honduras,25095
+108,107,Papua New Guinea,24969
+109,108,Yemen,24935
+110,109,Cyprus,24565
+111,110,Iceland,24188
+112,111,Senegal,23664
+113,112,Trinidad and Tobago,23208
+114,113,Zambia,23085
+115,114,Zimbabwe,21440
+116,115,Syria,20379
+117,116,Bosnia and Herzegovina,20164
+118,117,Laos,18822
+119,118,Botswana,18340
+120,119,Afghanistan,17876
+121,120,Georgia,17742
+122,121,Mali,17432
+123,122,Palestine,17058
+124,123,Gabon,16887
+125,124,Korea North,16331
+126,125,Burkina Faso,15990
+127,126,Jamaica,15830
+128,127,Mozambique,15296
+129,128,Albania,15278
+130,129,Malta,14863
+131,130,Benin,14403
+132,131,Mauritius,14180
+133,132,Madagascar,14104
+134,133,Mongolia,13852
+135,134,Armenia,13672
+136,135,Bahamas The,13578
+137,136,Brunei,13469
+138,137,Niger,12927
+139,138,North Macedonia,12694
+140,139,Nicaragua,12520
+141,140,Congo Republic of the,12397
+142,141,Namibia,12366
+143,142,Guinea,12354
+144,143,Moldova,11955
+145,144,Chad,11271
+146,145,Equatorial Guinea,11024
+147,146,Rwanda,10355
+148,147,New Caledonia (France),9879
+149,148,Kyrgyzstan,8454
+150,149,Tajikistan,8333
+151,150,Malawi,8099
+152,151,Haiti,8051
+153,152,Kosovo,7952
+154,153,Mauritania,7593
+155,154,Monaco,7423
+156,155,Bermuda (United Kingdom),7361
+157,156,Togo,7270
+158,157,Liechtenstein,6797
+159,158,French Polynesia (France),6023
+160,159,Cayman Islands (UK),6020
+161,160,Maldives,5642
+162,161,Montenegro,5542
+163,162,Fiji,5504
+164,163,Barbados,5209
+165,164,Guyana,5173
+166,165,South Sudan,4959
+167,166,Eswatini,4594
+168,167,Sierra Leone,4121
+169,168,Suriname,3697
+170,169,Aruba (Netherlands),3293
+171,170,Djibouti,3166
+172,172,Andorra,3154
+173,173,Curaçao (Netherlands),3101
+174,174,Greenland (Denmark),3023
+175,175,Burundi,3002
+176,176,Liberia,2582
+177,177,Bhutan,2564
+178,178,Lesotho,2460
+179,179,Central African Republic,2220
+180,180,Saint Lucia,2122
+181,181,Timor-Leste,2017
+182,182,Eritrea,1981
+183,183,Cape Verde,1981
+184,184,Belize,1906
+185,185,Gambia The,1822
+186,186,Zanzibar (Tanzania),1805
+187,187,Seychelles,1698
+188,188,Antigua and Barbuda,1661
+189,189,Somalia,1626
+190,190,San Marino,1602
+191,191,Guinea-Bissau,1322
+192,192,Solomon Islands,1302
+193,193,British Virgin Islands (United Kingdom),1296
+194,194,Grenada,1211
+195,195,Turks and Caicos Islands (United Kingdom),1197
+196,196,Comoros,1165
+197,197,Saint Kitts and Nevis,1050
+198,198,Sint Maarten (Netherlands),1009
+199,199,Vanuatu,906
+200,200,Samoa,844
+201,201,Saint Vincent and the Grenadines,825
+202,202,Dominica,582
+203,203,Tonga,508
+204,204,São Tomé and Príncipe,421
+205,205,Micronesia Federated States of,414
+206,206,Cook Islands (New Zealand),379
+207,207,Anguilla (United Kingdom),379
+208,208,Palau,280
+209,209,Marshall Islands,237
+210,210,Kiribati,194
+211,211,Nauru,132
+212,212,Montserrat (United Kingdom),67
+213,213,Tuvalu,47
