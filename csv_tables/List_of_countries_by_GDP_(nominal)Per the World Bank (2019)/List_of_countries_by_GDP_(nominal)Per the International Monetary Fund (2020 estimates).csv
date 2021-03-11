@@ -4,8 +4,8 @@
 3,2,China,14860775
 4,3,Japan,4910580
 5,4,Germany,3780553
-6,5,United Kingdom,2638296
-7,6,India,2592583
+6,6,India,2692583
+7,5,United Kingdom,2638296
 8,7,France,2551451
 9,8,Italy,1848222
 10,9,Canada,1600264
@@ -34,13 +34,13 @@
 33,32,Philippines,367362
 34,33,Norway,366386
 35,34,Egypt,361875
-36,35,United Arab Emirates,353899
-37,36,Hong Kong (China),341319
-38,37,Vietnam,340602
-39,38,Denmark,339626
-40,39,Singapore,337451
-41,40,Malaysia,336330
-42,41,Bangladesh,317768
+36,35,Bangladesh,348891 
+37,36,United Arab Emirates,353899
+38,37,Hong Kong (China),341319
+39,38,Vietnam,340602
+40,39,Denmark,339626
+41,40,Singapore,337451
+42,41,Malaysia,336330
 43,42,South Africa,282588
 44,43,Pakistan (2019),276200
 45,44,Finland,267856

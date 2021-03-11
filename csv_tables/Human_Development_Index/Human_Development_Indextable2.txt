@@ -1,0 +1,2 @@
+Table:Table_2, row number:Row_1, row content: ['Rank', 'NaN', 'Country', 'NaN', '2019 estimates (2020 report)']
+Table:Table_2, row number:Row_2, row content: ['IHDI', 'NaN', 'HDI', 'NaN', 'Overall loss (%)', 'NaN', 'Growth since 2010']

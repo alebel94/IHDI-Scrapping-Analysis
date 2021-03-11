@@ -1,0 +1,6 @@
+Row_1: ['Rank', 'Country', '2019 estimates (2020 report)']
+Row_2: ['IHDI', 'HDI', 'Overall loss (%)', 'Growth since 2010']
+Row_3: ['Very high human development']
+Row_34: ['High human development']
+Row_57: ['Medium human development']
+Row_98: ['Low human development']

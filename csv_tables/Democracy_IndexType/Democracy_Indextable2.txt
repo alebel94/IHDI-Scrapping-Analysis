@@ -1,0 +1,1 @@
+Table:Table_2, row number:Row_9, row content: ['World', '167', '57', '35', '52', '23', '5.37']

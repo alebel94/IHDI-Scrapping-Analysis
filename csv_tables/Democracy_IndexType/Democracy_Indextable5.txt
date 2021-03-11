@@ -1,0 +1,5 @@
+Table:Table_5, row number:Row_2, row content: []
+Table:Table_5, row number:Row_3, row content: ['Full democracies']
+Table:Table_5, row number:Row_27, row content: ['Flawed democracies']
+Table:Table_5, row number:Row_80, row content: ['Hybrid regimes']
+Table:Table_5, row number:Row_116, row content: ['Authoritarian regimes']
