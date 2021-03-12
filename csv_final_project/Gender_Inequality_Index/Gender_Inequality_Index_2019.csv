@@ -1,0 +1,163 @@
+,GII Rank,HDI Rank,Country,GII Value
+1,1,2,Switzerland,0.025
+2,2,10,Denmark,0.038
+3,3,7,Sweden,0.039
+4,4,8,Netherlands,0.043
+5,4,14,Belgium,0.043
+6,6,1,Norway,0.045
+7,7,11,Finland,0.047
+8,8,26,France,0.049
+9,9,4,Iceland,0.058
+10,10,22,Slovenia,0.063
+11,11,23,South Korea,0.064
+12,12,23,Luxembourg,0.065
+13,12,11,Singapore,0.065
+14,14,18,Austria,0.069
+15,14,29,Italy,0.069
+16,16,25,Spain,0.07
+17,17,38,Portugal,0.075
+18,18,31,United Arab Emirates,0.079
+19,19,16,Canada,0.08
+20,20,6,Germany,0.084
+21,21,33,Cyprus,0.086
+22,21,29,Estonia,0.086
+23,23,2,Ireland,0.093
+24,24,19,Japan,0.094
+25,25,8,Australia,0.097
+26,26,19,Israel,0.109
+27,26,48,Montenegro,0.109
+28,28,35,Poland,0.115
+29,29,32,Greece,0.116
+30,29,43,Croatia,0.116
+31,31,13,United Kingdom,0.118
+32,31,53,Belarus,0.118
+33,33,14,New Zealand,0.123
+34,34,34,Lithuania,0.124
+35,35,64,Serbia,0.132
+36,36,27,Czechia,0.136
+37,37,82,Macedonia,0.143
+38,38,73,Bosnia and Herzegovina,0.149
+39,39,85,China,0.168
+40,40,28,Malta,0.175
+41,41,37,Latvia,0.176
+42,42,69,Albania,0.181
+43,43,45,Qatar,0.185
+44,44,51,Kazakhstan,0.19
+45,45,39,Slovakia,0.191
+46,46,17,United States,0.204
+47,46,90,Moldova,0.204
+48,48,56,Bulgaria,0.206
+49,49,42,Bahrain,0.212
+50,50,52,Russian Federation,0.225
+51,51,40,Hungary,0.233
+52,52,74,Ukraine,0.234
+53,53,64,Kuwait,0.242
+54,54,81,Armenia,0.245
+55,55,43,Chile,0.247
+56,56,105,Libya,0.252
+57,56,40,Saudi Arabia,0.252
+58,56,58,Barbados,0.252
+59,59,62,Malaysia,0.253
+60,60,47,Brunei,0.255
+61,61,49,Romania,0.276
+62,62,55,Uruguay,0.288
+63,62,106,Uzbekistan,0.288
+64,62,62,Costa Rica,0.288
+65,65,95,Tunisia,0.296
+66,65,117,Viet Nam,0.296
+67,67,70,Cuba,0.304
+68,68,60,Oman,0.306
+69,68,54,Turkey,0.306
+70,70,125,Tajikistan,0.314
+71,71,99,Mongolia,0.322
+72,71,74,Mexico,0.322
+73,73,88,Azerbaijan,0.323
+74,73,67,Trinidad and Tobago,0.323
+75,75,46,Argentina,0.328
+76,76,61,Georgia,0.331
+77,77,58,Bahamas,0.341
+78,78,66,Mauritius,0.347
+79,79,104,Tonga,0.354
+80,80,79,Thailand,0.359
+81,81,111,Samoa,0.36
+82,82,95,Maldives,0.369
+83,82,120,Kyrgyzstan,0.369
+84,84,93,Fiji,0.37
+85,85,124,El Salvador,0.383
+86,86,86,Ecuador,0.384
+87,87,79,Peru,0.395
+88,88,101,Jamaica,0.396
+89,89,126,Cape Verde,0.397
+90,90,86,Saint Lucia,0.401
+91,90,72,Sri Lanka,0.401
+92,92,160,Rwanda,0.402
+93,93,114,South Africa,0.406
+94,94,57,Panama,0.407
+95,95,84,Brazil,0.408
+96,96,92,Lebanon,0.411
+97,97,110,Belize,0.415
+98,98,107,Bolivia,0.417
+99,99,129,Bhutan,0.421
+100,100,132,Honduras,0.423
+101,101,83,Colombia,0.428
+102,101,128,Nicaragua,0.428
+103,103,91,Algeria,0.429
+104,104,107,Philippines,0.43
+105,105,97,Suriname,0.436
+106,106,130,Namibia,0.44
+107,107,103,Paraguay,0.446
+108,108,116,Egypt,0.449
+109,109,102,Jordan,0.45
+110,110,142,Nepal,0.452
+111,111,121,Morocco,0.454
+112,112,88,Dominican Republic,0.455
+113,113,137,Laos,0.459
+114,113,70,Iran,0.459
+115,115,122,Guyana,0.462
+116,116,100,Botswana,0.465
+117,117,144,Cambodia,0.474
+118,118,147,Myanmar,0.478
+119,119,113,Venezuela,0.479
+120,119,127,Guatemala,0.479
+121,121,107,Indonesia,0.48
+122,122,151,Syrian Arab Republic,0.482
+123,123,131,India,0.488
+124,124,185,Burundi,0.504
+125,125,173,Ethiopia,0.517
+126,126,143,Kenya,0.518
+127,127,181,Mozambique,0.523
+128,128,119,Gabon,0.525
+129,129,150,Zimbabwe,0.527
+130,130,168,Senegal,0.533
+131,131,159,Uganda,0.535
+132,132,148,Angola,0.536
+133,133,135,Sao Tome and Principe,0.537
+134,133,133,Bangladesh,0.537
+135,135,138,Ghana,0.538
+136,135,154,Pakistan,0.538
+137,137,146,Zambia,0.539
+138,138,170,Sudan,0.545
+139,139,165,Lesotho,0.553
+140,140,163,Tanzania,0.556
+141,141,153,Cameroon,0.56
+142,142,174,Malawi,0.565
+143,143,138,Eswatini,0.567
+144,144,149,Republic of the Congo,0.57
+145,145,167,Togo,0.573
+146,146,123,Iraq,0.577
+147,147,182,Burkina Faso,0.594
+148,148,158,Benin,0.612
+149,148,172,Gambia,0.612
+150,150,175,Democratic Republic of the Congo,0.617
+151,151,157,Mauritania,0.634
+152,152,170,Haiti,0.636
+153,153,162,Côte d'Ivoire,0.638
+154,154,189,Niger,0.642
+155,155,182,Sierra Leone,0.644
+156,156,175,Liberia,0.65
+157,157,169,Afghanistan,0.655
+158,158,184,Mali,0.671
+159,159,188,Central African Republic,0.68
+160,160,187,Chad,0.71
+161,161,155,Papua New Guinea,0.725
+162,162,179,Yemen,0.795

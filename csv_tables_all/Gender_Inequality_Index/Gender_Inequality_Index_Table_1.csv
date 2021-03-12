@@ -1,0 +1,163 @@
+,GII Rank,NaN,HDI Rank,NaN,Country,NaN,GII Value
+1,1,NaN,2,NaN,Switzerland,NaN,0.025
+2,2,NaN,10,NaN,Denmark,NaN,0.038
+3,3,NaN,7,NaN,Sweden,NaN,0.039
+4,4,NaN,8,NaN,Netherlands,NaN,0.043
+5,4,NaN,14,NaN,Belgium,NaN,0.043
+6,6,NaN,1,NaN,Norway,NaN,0.045
+7,7,NaN,11,NaN,Finland,NaN,0.047
+8,8,NaN,26,NaN,France,NaN,0.049
+9,9,NaN,4,NaN,Iceland,NaN,0.058
+10,10,NaN,22,NaN,Slovenia,NaN,0.063
+11,11,NaN,23,NaN,South Korea,NaN,0.064
+12,12,NaN,23,NaN,Luxembourg,NaN,0.065
+13,12,NaN,11,NaN,Singapore,NaN,0.065
+14,14,NaN,18,NaN,Austria,NaN,0.069
+15,14,NaN,29,NaN,Italy,NaN,0.069
+16,16,NaN,25,NaN,Spain,NaN,0.070
+17,17,NaN,38,NaN,Portugal,NaN,0.075
+18,18,NaN,31,NaN,United Arab Emirates,NaN,0.079
+19,19,NaN,16,NaN,Canada,NaN,0.080
+20,20,NaN,6,NaN,Germany,NaN,0.084
+21,21,NaN,33,NaN,Cyprus,NaN,0.086
+22,21,NaN,29,NaN,Estonia,NaN,0.086
+23,23,NaN,2,NaN,Ireland,NaN,0.093
+24,24,NaN,19,NaN,Japan,NaN,0.094
+25,25,NaN,8,NaN,Australia,NaN,0.097
+26,26,NaN,19,NaN,Israel,NaN,0.109
+27,26,NaN,48,NaN,Montenegro,NaN,0.109
+28,28,NaN,35,NaN,Poland,NaN,0.115
+29,29,NaN,32,NaN,Greece,NaN,0.116
+30,29,NaN,43,NaN,Croatia,NaN,0.116
+31,31,NaN,13,NaN,United Kingdom,NaN,0.118
+32,31,NaN,53,NaN,Belarus,NaN,0.118
+33,33,NaN,14,NaN,New Zealand,NaN,0.123
+34,34,NaN,34,NaN,Lithuania,NaN,0.124
+35,35,NaN,64,NaN,Serbia,NaN,0.132
+36,36,NaN,27,NaN,Czechia,NaN,0.136
+37,37,NaN,82,NaN,Macedonia,NaN,0.143
+38,38,NaN,73,NaN,Bosnia and Herzegovina,NaN,0.149
+39,39,NaN,85,NaN,China,NaN,0.168
+40,40,NaN,28,NaN,Malta,NaN,0.175
+41,41,NaN,37,NaN,Latvia,NaN,0.176
+42,42,NaN,69,NaN,Albania,NaN,0.181
+43,43,NaN,45,NaN,Qatar,NaN,0.185
+44,44,NaN,51,NaN,Kazakhstan,NaN,0.190
+45,45,NaN,39,NaN,Slovakia,NaN,0.191
+46,46,NaN,17,NaN,United States,NaN,0.204
+47,46,NaN,90,NaN,Moldova,NaN,0.204
+48,48,NaN,56,NaN,Bulgaria,NaN,0.206
+49,49,NaN,42,NaN,Bahrain,NaN,0.212
+50,50,NaN,52,NaN,Russian Federation,NaN,0.225
+51,51,NaN,40,NaN,Hungary,NaN,0.233
+52,52,NaN,74,NaN,Ukraine,NaN,0.234
+53,53,NaN,64,NaN,Kuwait,NaN,0.242
+54,54,NaN,81,NaN,Armenia,NaN,0.245
+55,55,NaN,43,NaN,Chile,NaN,0.247
+56,56,NaN,105,NaN,Libya,NaN,0.252
+57,56,NaN,40,NaN,Saudi Arabia,NaN,0.252
+58,56,NaN,58,NaN,Barbados,NaN,0.252
+59,59,NaN,62,NaN,Malaysia,NaN,0.253
+60,60,NaN,47,NaN,Brunei,NaN,0.255
+61,61,NaN,49,NaN,Romania,NaN,0.276
+62,62,NaN,55,NaN,Uruguay,NaN,0.288
+63,62,NaN,106,NaN,Uzbekistan,NaN,0.288
+64,62,NaN,62,NaN,Costa Rica,NaN,0.288
+65,65,NaN,95,NaN,Tunisia,NaN,0.296
+66,65,NaN,117,NaN,Viet Nam,NaN,0.296
+67,67,NaN,70,NaN,Cuba,NaN,0.304
+68,68,NaN,60,NaN,Oman,NaN,0.306
+69,68,NaN,54,NaN,Turkey,NaN,0.306
+70,70,NaN,125,NaN,Tajikistan,NaN,0.314
+71,71,NaN,99,NaN,Mongolia,NaN,0.322
+72,71,NaN,74,NaN,Mexico,NaN,0.322
+73,73,NaN,88,NaN,Azerbaijan,NaN,0.323
+74,73,NaN,67,NaN,Trinidad and Tobago,NaN,0.323
+75,75,NaN,46,NaN,Argentina,NaN,0.328
+76,76,NaN,61,NaN,Georgia,NaN,0.331
+77,77,NaN,58,NaN,Bahamas,NaN,0.341
+78,78,NaN,66,NaN,Mauritius,NaN,0.347
+79,79,NaN,104,NaN,Tonga,NaN,0.354
+80,80,NaN,79,NaN,Thailand,NaN,0.359
+81,81,NaN,111,NaN,Samoa,NaN,0.360
+82,82,NaN,95,NaN,Maldives,NaN,0.369
+83,82,NaN,120,NaN,Kyrgyzstan,NaN,0.369
+84,84,NaN,93,NaN,Fiji,NaN,0.370
+85,85,NaN,124,NaN,El Salvador,NaN,0.383
+86,86,NaN,86,NaN,Ecuador,NaN,0.384
+87,87,NaN,79,NaN,Peru,NaN,0.395
+88,88,NaN,101,NaN,Jamaica,NaN,0.396
+89,89,NaN,126,NaN,Cape Verde,NaN,0.397
+90,90,NaN,86,NaN,Saint Lucia,NaN,0.401
+91,90,NaN,72,NaN,Sri Lanka,NaN,0.401
+92,92,NaN,160,NaN,Rwanda,NaN,0.402
+93,93,NaN,114,NaN,South Africa,NaN,0.406
+94,94,NaN,57,NaN,Panama,NaN,0.407
+95,95,NaN,84,NaN,Brazil,NaN,0.408
+96,96,NaN,92,NaN,Lebanon,NaN,0.411
+97,97,NaN,110,NaN,Belize,NaN,0.415
+98,98,NaN,107,NaN,Bolivia,NaN,0.417
+99,99,NaN,129,NaN,Bhutan,NaN,0.421
+100,100,NaN,132,NaN,Honduras,NaN,0.423
+101,101,NaN,83,NaN,Colombia,NaN,0.428
+102,101,NaN,128,NaN,Nicaragua,NaN,0.428
+103,103,NaN,91,NaN,Algeria,NaN,0.429
+104,104,NaN,107,NaN,Philippines,NaN,0.430
+105,105,NaN,97,NaN,Suriname,NaN,0.436
+106,106,NaN,130,NaN,Namibia,NaN,0.440
+107,107,NaN,103,NaN,Paraguay,NaN,0.446
+108,108,NaN,116,NaN,Egypt,NaN,0.449
+109,109,NaN,102,NaN,Jordan,NaN,0.450
+110,110,NaN,142,NaN,Nepal,NaN,0.452
+111,111,NaN,121,NaN,Morocco,NaN,0.454
+112,112,NaN,88,NaN,Dominican Republic,NaN,0.455
+113,113,NaN,137,NaN,Laos,NaN,0.459
+114,113,NaN,70,NaN,Iran,NaN,0.459
+115,115,NaN,122,NaN,Guyana,NaN,0.462
+116,116,NaN,100,NaN,Botswana,NaN,0.465
+117,117,NaN,144,NaN,Cambodia,NaN,0.474
+118,118,NaN,147,NaN,Myanmar,NaN,0.478
+119,119,NaN,113,NaN,Venezuela,NaN,0.479
+120,119,NaN,127,NaN,Guatemala,NaN,0.479
+121,121,NaN,107,NaN,Indonesia,NaN,0.480
+122,122,NaN,151,NaN,Syrian Arab Republic,NaN,0.482
+123,123,NaN,131,NaN,India,NaN,0.488
+124,124,NaN,185,NaN,Burundi,NaN,0.504
+125,125,NaN,173,NaN,Ethiopia,NaN,0.517
+126,126,NaN,143,NaN,Kenya,NaN,0.518
+127,127,NaN,181,NaN,Mozambique,NaN,0.523
+128,128,NaN,119,NaN,Gabon,NaN,0.525
+129,129,NaN,150,NaN,Zimbabwe,NaN,0.527
+130,130,NaN,168,NaN,Senegal,NaN,0.533
+131,131,NaN,159,NaN,Uganda,NaN,0.535
+132,132,NaN,148,NaN,Angola,NaN,0.536
+133,133,NaN,135,NaN,Sao Tome and Principe,NaN,0.537
+134,133,NaN,133,NaN,Bangladesh,NaN,0.537
+135,135,NaN,138,NaN,Ghana,NaN,0.538
+136,135,NaN,154,NaN,Pakistan,NaN,0.538
+137,137,NaN,146,NaN,Zambia,NaN,0.539
+138,138,NaN,170,NaN,Sudan,NaN,0.545
+139,139,NaN,165,NaN,Lesotho,NaN,0.553
+140,140,NaN,163,NaN,Tanzania,NaN,0.556
+141,141,NaN,153,NaN,Cameroon,NaN,0.560
+142,142,NaN,174,NaN,Malawi,NaN,0.565
+143,143,NaN,138,NaN,Eswatini,NaN,0.567
+144,144,NaN,149,NaN,Republic of the Congo,NaN,0.570
+145,145,NaN,167,NaN,Togo,NaN,0.573
+146,146,NaN,123,NaN,Iraq,NaN,0.577
+147,147,NaN,182,NaN,Burkina Faso,NaN,0.594
+148,148,NaN,158,NaN,Benin,NaN,0.612
+149,148,NaN,172,NaN,Gambia,NaN,0.612
+150,150,NaN,175,NaN,Democratic Republic of the Congo,NaN,0.617
+151,151,NaN,157,NaN,Mauritania,NaN,0.634
+152,152,NaN,170,NaN,Haiti,NaN,0.636
+153,153,NaN,162,NaN,Côte d'Ivoire,NaN,0.638
+154,154,NaN,189,NaN,Niger,NaN,0.642
+155,155,NaN,182,NaN,Sierra Leone,NaN,0.644
+156,156,NaN,175,NaN,Liberia,NaN,0.650
+157,157,NaN,169,NaN,Afghanistan,NaN,0.655
+158,158,NaN,184,NaN,Mali,NaN,0.671
+159,159,NaN,188,NaN,Central African Republic,NaN,0.680
+160,160,NaN,187,NaN,Chad,NaN,0.710
+161,161,NaN,155,NaN,Papua New Guinea,NaN,0.725
+162,162,NaN,179,NaN,Yemen,NaN,0.795

@@ -1,0 +1,2 @@
+table:Table_2, row number:Row_1, row content: ['Country', 'NaN', '2020']
+table:Table_2, row number:Row_2, row content: ['Rank', 'Score', 'NaN', 'Basic Human Needs', 'NaN', 'Foundation of Well Being', 'NaN', 'Opportunity']

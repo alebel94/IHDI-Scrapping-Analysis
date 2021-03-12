@@ -1,0 +1,1 @@
+table:Table_2, row number:Row_1, row content: ['Country', 'NaN', 'GII Rank', '(GII value) 2018', 'NaN', 'GII Rank 2012', 'NaN', 'GII Value 2012', 'NaN', 'HDI Rank 2012', 'NaN', 'GII Rank 2011', 'NaN', 'GII Value 2011', 'NaN', 'GII Rank 2008', 'NaN', 'GII Value 2008']

@@ -1,0 +1,2 @@
+table:Table_3, row number:Row_1, row content: ['Rank', 'NaN', 'Region', 'NaN', 'Countries', 'NaN', 'Authoritarian', 'NaN', 'Hybrid regime', 'NaN', 'Flawed democracy', 'NaN', 'Full democracy', 'NaN', 'Average score']
+table:Table_3, row number:Row_9, row content: ['NaN', 'World', '167', '57', '35', '52', '23', '5.37']

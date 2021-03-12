@@ -1,0 +1,6 @@
+table:Table_1, row number:Row_1, row content: ['Rank', 'NaN', 'Country', 'NaN', '2019 estimates (2020 report)']
+table:Table_1, row number:Row_2, row content: ['IHDI', 'NaN', 'HDI', 'NaN', 'Overall loss (%)', 'NaN', 'Growth since 2010']
+table:Table_1, row number:Row_3, row content: ['Very high human development']
+table:Table_1, row number:Row_34, row content: ['High human development']
+table:Table_1, row number:Row_57, row content: ['Medium human development']
+table:Table_1, row number:Row_98, row content: ['Low human development']

@@ -1,0 +1,1 @@
+table:Table_1, row number:Row_1, row content: ['Type of regime', 'NaN', 'Colors', 'NaN', 'Score', 'NaN', 'Countries', 'NaN', 'Countries (%)', 'NaN', 'World population (%)']

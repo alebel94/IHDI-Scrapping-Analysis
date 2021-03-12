@@ -1,0 +1,2 @@
+table:Table_2, row number:Row_1, row content: ['Rank', 'NaN', 'Region', 'NaN', 'Countries', 'NaN', '2006', 'NaN', '2008', 'NaN', '2010', 'NaN', '2011', 'NaN', '2012', 'NaN', '2013', 'NaN', '2014', 'NaN', '2015', 'NaN', '2016', 'NaN', '2017', 'NaN', '2018', 'NaN', '2019', 'NaN', '2020']
+table:Table_2, row number:Row_9, row content: ['World', '167', '5.52', '5.55', '5.46', '5.49', '5.52', '5.53', '5.55', '5.55', '5.52', 'NaN', '5.48', 'NaN', '5.48', 'NaN', '5.44', 'NaN', '5.37']
